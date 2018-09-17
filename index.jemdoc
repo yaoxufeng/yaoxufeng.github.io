@@ -1,0 +1,44 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Qi SUN - The Chinese University of Hong Kong}
+
+~~~
+{}{img_left}{img/photo.jpg}{}{126}{}{}
+= Qi SUN
+
+*Ph.D. student*  
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Office*:Rm 905, Ho Sin Hang Engineering Building \n
+*Email*:qsun\[at\]cse.cuhk.edu.hk \n
+~~~
+
+{{<a href="https://www.linkedin.com/in/qi-sun-b655a1146/" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a> }}
+#<a href="https://scholar.google.com/citations?user=iANUv3MAAAAJ&hl=en&oi=sra" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
+
+
+== Biography
+
+I'm a Ph.D. student at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2018.
+Previously, I received my B.Eng. in Software Engineering from [http://www.xidian.edu.cn Xidian University (XDU)] in 2018.
+
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+Outstanding Graduate | XDU  | 2018  ||
+National Scholarship | XDU  | 2017 
+~~~
+
+
+# == Teaching
+# - 2018 Fall:[http://www.cse.cuhk.edu.hk/~byu/CENG4480/2018Fall/index.html CENG4480 -- Embedded System Development and Applications] \n
+# - 2018 Spring: [http://www.cse.cuhk.edu.hk/irwin.king/teaching CSCI2100 -- Data Structure] \n
+# - 2017 Fall: [http://www.cse.cuhk.edu.hk/~byu/CENG4480/index.html CENG4480 -- Embedded System Development and Applications] \n
+
+
+
