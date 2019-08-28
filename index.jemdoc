@@ -31,8 +31,11 @@ Previously, I received my B.Eng. in Software Engineering from [http://www.xidian
 == Publications
 
 === Conference papers
+
 . *Qi Sun*, Tinghuan Chen, Jin Miao, Bei Yu. \"Power-Driven DNN Dataflow Optimization on FPGA\". IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 4–7, 2019. (Invited Paper)
-. *Qi Sun*, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan. \"OpenMPL: An Open Source Layout Decomposer\". Workshop on Open-Source EDA Technology (WOSET18).
+. Wei Li, Yuzhe Ma, *Qi Sun*, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, \"OpenMPL: An Open Source Layout Decomposer\", IEEE International Conference on ASIC (ASICON), Chongqing, China, Oct. 29–Nov. 1, 2019. (Invited Paper)
+
+#. *Qi Sun*, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan. \"OpenMPL: An Open Source Layout Decomposer\". Workshop on Open-Source EDA Technology (WOSET18).
 
 == Selected Awards
 ~~~
