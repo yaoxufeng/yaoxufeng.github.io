@@ -24,14 +24,14 @@
 I'm a Ph.D. student at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2018.
-Previously, I received my B.Eng. in Software Engineering from [http://www.xidian.edu.cn Xidian University (XDU)] in 2018.
+Previously, I received my B.Eng. in Software Engineering from [http://www.xidian.edu.cn Xidian University (XDU)] in 2018. My research interests include DNN hardware acceleration, high-level synthesis, and design space exploration.
 
 [http://appsrv.cse.cuhk.edu.hk/~qsun/cv_QiSun.pdf My CV]
 
 == Publications
 
 === Conference papers
-
+. *Qi Sun*, Arjun Ashok Rao, Xufeng Yao, Bei Yu, Shiyan Hu. \"Counteracting Adversarial Attack in Autonomous Driving\". IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 2–5, 2020. (Invited Paper)
 . *Qi Sun*, Tinghuan Chen, Jin Miao, Bei Yu. \"Power-Driven DNN Dataflow Optimization on FPGA\". IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov. 4–7, 2019. ([http://www.cse.cuhk.edu.hk/~byu/papers/C92-ICCAD2019-DataFlow.pdf paper])([http://www.cse.cuhk.edu.hk/~byu/papers/C92-ICCAD2019-DataFlow-slides.pdf slides]) (Invited Paper)
 . Wei Li, Yuzhe Ma, *Qi Sun*, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, \"OpenMPL: An Open Source Layout Decomposer\", IEEE International Conference on ASIC (ASICON), Chongqing, China, Oct. 29–Nov. 1, 2019. ([https://arxiv.org/pdf/1809.07554v3.pdf paper])([http://www.cse.cuhk.edu.hk/~byu/papers/C90-ASICON2019-OpenMPL-slides.pdf slides]) (Invited Paper)
 
