@@ -4,7 +4,7 @@
 # jemdoc: title{Qi SUN - The Chinese University of Hong Kong}
 
 ~~~
-{}{img_left}{img/photo.jpg}{}{126}{}{}
+{}{img_left}{img/photo-1.jpg}{}{126}{}{}
 = Qi SUN
 
 *Ph.D. student*  
@@ -18,13 +18,12 @@
 {{<a href="https://www.linkedin.com/in/qi-sun-b655a1146/" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a> }}
 #<a href="https://scholar.google.com/citations?user=iANUv3MAAAAJ&hl=en&oi=sra" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
 
-
 == Biography
 
 I'm a Ph.D. student at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2018.
-Previously, I received my B.Eng. in Software Engineering from [http://www.xidian.edu.cn Xidian University (XDU)] in 2018. My research interests include DNN hardware acceleration, high-level synthesis, and design space exploration.
+Previously, I received my B.Eng. in Software Engineering from [http://www.xidian.edu.cn Xidian University (XDU)] in 2018. My research interests include Deep Neural Network hardware acceleration, high-level synthesis, and design space exploration.
 
 [http://appsrv.cse.cuhk.edu.hk/~qsun/cv_QiSun.pdf My CV]
 
@@ -37,6 +36,13 @@ Previously, I received my B.Eng. in Software Engineering from [http://www.xidian
 
 #. *Qi Sun*, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan. \"OpenMPL: An Open Source Layout Decomposer\". Workshop on Open-Source EDA Technology (WOSET18).
 
+== Experience
+
+=== SmartMore
+- Research Intern, Heterogeneous Computing Group
+- Mar. 2020 -- Now, Hong Kong site
+- Topic: Deep Neural Network Hardware Acceleration
+
 == Selected Awards
 ~~~
 {}{table}{noborder}
@@ -47,10 +53,11 @@ The First Class Scholarship | XDU | 2014 - 2016 ||
 ~~~
 
 
-# == Teaching
-# - 2018 Fall:[http://www.cse.cuhk.edu.hk/~byu/CENG4480/2018Fall/index.html CENG4480 -- Embedded System Development and Applications] \n
-# - 2018 Spring: [http://www.cse.cuhk.edu.hk/irwin.king/teaching CSCI2100 -- Data Structure] \n
-# - 2017 Fall: [http://www.cse.cuhk.edu.hk/~byu/CENG4480/index.html CENG4480 -- Embedded System Development and Applications] \n
+== Teaching
+- 2020 Fall: [http://www.cse.cuhk.edu.hk/~byu/CENG4480/2020Fall/index.html CENG4480 -- Embedded System Development and Applications]
+- 2019 Fall: [https://www.cse.cuhk.edu.hk/~ksleung/csci3230/ CSCI3230 -- Fundamentals of Artificial Intelligence] \n
+- 2019 Spring: CSCI1020 Hands-on Introduction to C++ \n
+- 2018 Fall: CSCI2720 Building Web Application \n
 
 
 
