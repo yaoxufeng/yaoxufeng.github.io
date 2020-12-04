@@ -29,6 +29,9 @@ Previously, I received my B.Eng. in Software Engineering from [http://www.xidian
 
 == Publications
 
+=== Journal papers
+- \[J1\] Wei Li, Yuzhe Ma, *Qi Sun*, Zhang Lu, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, \"OpenMPL: An Open Source Layout Decomposer\". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
+
 === Conference papers
 - \[C7\] *Qi Sun*, Tinghuan Chen, Siting Liu, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, \"Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design\". IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021.
 - \[C6\] *Qi Sun*, Chen Bai, Hao Geng, Bei Yu, \"Deep Neural Network Hardware Deployment Optimization via Advanced Active Learning\". IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021.
